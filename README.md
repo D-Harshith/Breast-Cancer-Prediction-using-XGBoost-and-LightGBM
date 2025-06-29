@@ -50,7 +50,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn lightgbm
 1. Clone the repository:
    ```bash
    git clone <Breast-Cancer-Prediction>
-   cd <repository-directory>
    ```
 2. Ensure the dataset is available or update the file path in the notebook to point to the correct location.
 3. Run the Jupyter notebook:
